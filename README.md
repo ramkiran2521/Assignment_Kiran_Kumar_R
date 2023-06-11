@@ -1,3 +1,5 @@
+## This app is deployed in Netlify ( https://kirankumar-card-app.netlify.app/ )
+
 ## Instructions to run this App Locally
 
 1. Clone the repository (git clone https://github.com/ramkiran2521/Assignment_Kiran_Kumar_R.git)
@@ -22,8 +24,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 #### 2. Your route
 
-        - Lists the cards according to owner_id (http://localhost:3000/your/<owner_id>). Owner_id = 1,2,3,4,5,6
+        - Lists the cards according to owner_id (http://localhost:3000/your/<owner_id>). owner_id = 1
 
 #### 2. Blocked route
 
         - Lists the cards which has a status as blocked
+        
+        
+##### Check my other projects in gitLab ( https://gitlab.com/kiran2521 )
