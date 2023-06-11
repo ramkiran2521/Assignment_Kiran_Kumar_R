@@ -1,0 +1,32 @@
+.card{
+    font-size: 1.2rem;
+    font-weight: 500;
+    background-color: #a9c8d1;
+    border-radius: 5px;
+    padding: 1.5rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    
+}
+
+.card p {
+    background-color: #c5ebde;
+    padding: 0.3rem 1rem;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.card > div{
+    text-align: end;
+    margin-bottom: 0.5rem;
+}
+
+.container{
+    display: flex;
+    gap: 5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2rem;
+}
